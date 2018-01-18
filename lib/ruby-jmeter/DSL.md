@@ -39,6 +39,8 @@
   `user_defined_variables`
 - Test Fragment
   `test_fragment`
+- tearDown Thread Group
+  `teardown_thread_group`
 - Thread Group
   `thread_group`
 - ForEach Controller
